@@ -1,2 +1,2 @@
 # MBC
-MBC Projects
+MBC ChatBot Sample Project
