@@ -1,0 +1,6 @@
+
+# ignore sample project runtime/build files / secrets
+chatbot-sample/node_modules/
+chatbot-sample/.env*
+chatbot-sample/.next/
+chatbot-sample/.DS_Store
